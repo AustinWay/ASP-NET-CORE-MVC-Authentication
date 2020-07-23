@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\austinway.BGE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\austinway.BGE\\.nuget\\packages"
+    ]
+  }
+}
